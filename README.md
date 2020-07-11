@@ -2,6 +2,9 @@
 Remake this classic game in VB6.0
 
 
+[toc]
+
+
 ##程序分工解析
 
 
